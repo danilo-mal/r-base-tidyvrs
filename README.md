@@ -2,6 +2,6 @@
 
 Dockerfile to build image with R base and tidyverse installed. Pull image from dockerhub using:
 
-´´´{sh}
+```shell
 docker pull dvnielmvl/r-base-tidyvrs
-´´´
+```
